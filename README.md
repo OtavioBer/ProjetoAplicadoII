@@ -1,3 +1,6 @@
+![image](https://github.com/OtavioBer/ProjetoAplicadoII/assets/127904923/36cfabec-6a64-456c-9fb8-31fd9e58a7ed)
+
+
 ## ProjetoAplicadoII
 # Sistema de recomendação de filmes: COLLAM FILMS
 
